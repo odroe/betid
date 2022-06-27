@@ -23,10 +23,10 @@ final String id = 21.betid;
 ## Installation
 
 ```bash
-$ pub install betid
+$ dart pub add betid
 
 # Or if you using Flutter
-$ flutter pub install betid
+$ flutter pub add betid
 ```
 
 ## Usage
